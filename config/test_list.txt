@@ -1,0 +1,10 @@
+bin.10.orig.fa
+bin.11.permissive.fa
+bin.12.orig.fa
+bin.13.strict.fa
+bin.14.strict.fa
+bin.15.orig.fa
+bin.16.strict.fa
+bin.17.strict.fa
+bin.18.strict.fa
+bin.19.permissive.fa
